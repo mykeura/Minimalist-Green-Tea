@@ -1,6 +1,6 @@
 # Minimalist Green Tea 🍵
 
-The official Minimalist Green Tea theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Green Tea, designed for a serene and elegant browsing experience
+The official Minimalist Green Tea theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Green Tea, creating a serene and focused browsing experience.
 
 ![Minimalist Green Tea Theme Preview](images/preview.png)
 
